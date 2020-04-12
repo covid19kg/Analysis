@@ -6,3 +6,5 @@ The following Jupyter Notebooks contain the different analyses with the COVID-19
 
 - [Statistics per article](https://github.com/covid19kg/Analysis/blob/master/notebooks/covid19kg_stats_table.ipynb>).
   Summarizes the individual review papers and research articles comprised in the COVID-19 Knowledge Graph.
+
+- [Export]() Exports the COVID-19 Knowledge Graph BEL files into a number of available formats.
