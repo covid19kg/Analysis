@@ -1,2 +1,2 @@
 # Analysis
-Analysis of the COVID-19 KG
+Simple analyses and tutorials on the COVID-19 Knowledge Graph 
