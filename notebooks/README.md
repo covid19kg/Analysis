@@ -10,3 +10,5 @@ The following Jupyter Notebooks contain the different analyses with the COVID-19
 - [Pathway Enrichment](https://github.com/covid19kg/Analysis/blob/master/notebooks/enrichment_analysis.ipynb). Pathway
   enrichment on the COVID-19 Knowledge Graph.
 
+## Note
+Many of the curated articles within the Knowledge Graph were chosen while they were in preprint. Because of this, these publications were not yet assigned a PMID and will appear together as "0" in the notebooks that analyze each publication separately.
